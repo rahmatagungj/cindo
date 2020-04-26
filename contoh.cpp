@@ -3,8 +3,10 @@
 std;
 
 int main(){
-	nomor a=10,b;
+	nomor umur;
 	karakter nama[10];
-	tampilkan "Masuka nama kamu : "; masukan nama;
-	tampilkan "halo " dan nama;
+	tampilkan "Masuka nama kamu : "; masukan nama; garisbaru;
+	tampilkan "Masukan umur kamu : "; masukan umur; garisbaru;
+	tampilkan "Halo " dan nama; garisbaru;
+	tampilkan "Umur kamu adalah " dan umur;
 }
