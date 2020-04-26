@@ -1,4 +1,5 @@
 /*
+ *
  * C++ Bahasa Indonesia
  *
  *	Dibuat Oleh : Rahmat Agung Julians
